@@ -25,7 +25,8 @@ kullanırız
         Not Github ogrendim
         Githubda cok kod var
         6) git pull   remoddaki dosyalarmizi githupda güncelleyince intelijeye göndermeye yarar
-         */
+                 */
+        System.out.println("Brach deneme 1");
 
     }
 
