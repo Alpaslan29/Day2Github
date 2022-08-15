@@ -22,6 +22,7 @@ kullanırız
         System.out.println("Github'ı da ogrendim");
         /*
         not: git log --online -->Commitlerimdeki yani versiyonlarımdaki durumu gösteriri
+        Not Github ogrendim
          */
 
     }
