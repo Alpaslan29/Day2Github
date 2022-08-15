@@ -28,6 +28,7 @@ kullanırız
                  */
         System.out.println("Brach deneme 1");
         System.out.println("Master deneme 1");
+        System.out.println("Brach deneme 2");
 
     }
 
