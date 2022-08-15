@@ -27,6 +27,7 @@ kullanırız
         6) git pull   remoddaki dosyalarmizi githupda güncelleyince intelijeye göndermeye yarar
                  */
         System.out.println("Brach deneme 1");
+        System.out.println("Master deneme 1");
 
     }
 
