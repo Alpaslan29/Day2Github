@@ -8,6 +8,7 @@ public class Day1Git {
         System.out.println("Hello Git 6, Deneme");
         System.out.println("Hello Java Hello World");
          System.out.println("Hello Git Hello World");
+        System.out.println("GUMUSHANE");
 
 
 
