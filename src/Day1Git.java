@@ -10,6 +10,7 @@ public class Day1Git {
          System.out.println("Hello Git Hello World");
         System.out.println("GUMUSHANE");
          System.out.println("ERZURUM");
+        System.out.println("TRABZON");
 
 
 
